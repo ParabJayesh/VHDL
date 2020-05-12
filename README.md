@@ -1,0 +1,2 @@
+# VHDL
+VHDL basic codes for CPLD kit MAX3000A EPM3064ALC44-10
