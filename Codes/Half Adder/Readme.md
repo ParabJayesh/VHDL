@@ -1,6 +1,6 @@
 # Half Adder
 
-This VHDL code is two add 2 bits a and b which gives two output sum and carry.
+This VHDL code is to add 2 bits a and b which gives two output sum and carry.
 
 IN and OUT terminals
 
